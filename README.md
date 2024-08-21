@@ -1,4 +1,4 @@
-# sambaserver
+# Samba Server
 Samba File Server on Proxmox Using Ubuntu
 
 In this project, I set up a Samba file server on Ubuntu to enable seamless file sharing across a local network. The process involved configuring Ubuntu to function as a reliable and secure file server, accessible by various clients, including Linux, Windows, and macOS systems.
